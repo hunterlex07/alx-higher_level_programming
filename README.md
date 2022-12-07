@@ -1,1 +1,1 @@
-This is a repo on Python and higher level programming inspired by ALX projects
+This is a new sprint on Python programming language for ALX
